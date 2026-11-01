@@ -50,6 +50,7 @@ Responds to greetings such as Hello and Hi.
 Answers basic questions about its name.
 Responds to help requests.
 Terminates when the user enters Bye.
+
 2. Water Jug Problem using DFS
 
 Implements Depth First Search to solve the classic Water Jug Problem using two jugs with capacities of 4 litres and 3 litres.
@@ -62,6 +63,7 @@ State-space representation.
 Depth First Search.
 Visited-state tracking.
 State transitions.
+
 3. Eight Puzzle Problem
 
 Implements a heuristic-based approach to solve the 8-Puzzle problem.
