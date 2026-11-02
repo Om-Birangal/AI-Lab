@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class NumberGuess {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        int high=100,low=10000;
+        int high=100,low=1;
         int guess;
         String feedback;
 
